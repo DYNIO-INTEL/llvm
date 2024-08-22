@@ -6809,3 +6809,8 @@ ExprResult SemaSYCL::ActOnUniqueStableNameExpr(SourceLocation OpLoc,
 
   return BuildUniqueStableNameExpr(OpLoc, LParen, RParen, TSI);
 }
+
+
+void testFunction(){
+
+}
